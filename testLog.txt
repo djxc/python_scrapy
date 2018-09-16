@@ -1,0 +1,12 @@
+2018-09-16 20:22:24,705 INFO     root       info message
+2018-09-16 20:22:24,705 WARNING  root       warning message
+2018-09-16 20:22:24,705 ERROR    root       error message
+2018-09-16 20:22:24,706 CRITICAL root       critical message
+2018-09-16 20:31:49,232 DEBUG    dj         I'm debug   
+2018-09-16 20:31:49,233 INFO     dj         I'm info    
+2018-09-16 20:31:49,235 WARNING  dj         I'm warn    
+2018-09-16 20:31:49,235 ERROR    dj         I'm error   
+2018-09-16 20:31:49,236 CRITICAL dj         I'm critical
+2018-09-16 20:32:55,700 DEBUG    dj         it is debug 
+2018-09-16 20:33:39,272 DEBUG    dj         it is debug 
+2018-09-16 20:33:39,275 ERROR    dj         I'm error   
