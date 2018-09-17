@@ -64,7 +64,7 @@ def testRe():
     s = 'I am dj, i am from linyi and i am very happy! i am 10 years old.'
     print(re.search('am', s).group())
     print(re.match('am', s))
-    print(re.findall('am .\d .*', s))
+    print(re.findall('am .\d', s))
     
 if __name__ == "__main__":
 #    linkWeb()
